@@ -1,15 +1,13 @@
 [
-  "Java",
+  "Python",
+  "SQL",
+  "HDFS",
+  "Azure DevOps",
   "Microservices",
-  "Blockchain",
   "Waterfall",
   "Agile / Scrum Development",
-  "Spring boot Framework",
-  "Laravel Framework",
-  "ASP.NET",
-  "VueJS",
-  "ReactJS",
-  "NodeJS",
+  "Microsoft Dynamics CRM",
   "C#",
-  "Lasagna"
+  "Oracle",
+  "Microsoft SQL Server"
 ]
