@@ -5,4 +5,4 @@
 layout: resume
 ---
 
-Mr Incognito is a very serious and working being and would love to work at your company.
+Evren Alim would love to work at your company if your company also has similar research interest.
